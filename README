@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1700
+
+For MS Windows XP users with Windows Services for Unix (SFU) 3.5 installed, the vimksh script enables the MS Windows version of Vim to use SFU commands and utilities for its shell commands (e.g., ":shell" and ":!...") as well as for its filter commands (e.g., "1G!Gwc -cl" followed by a quick "u"). No more dealing with "cmd.exe" -- you get to deal with ksh instead. The script has been tested with Vim 7.0, but should work with earlier Vim versions and with other versions of MS Windows that run SFU 3.5.
